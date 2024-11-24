@@ -138,49 +138,6 @@ Matriz Identidad:
 
 ---
 
-#### **Ejercicio 8: Suma de la diagonal principal**
-**Instrucción:**  
-Calcula la suma de los elementos de la diagonal principal de una matriz 3x3 inicializada en el código.
-
-**Matriz inicializada:**
-```cpp
-int matriz[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-```
-
-**Salida esperada:**
-```
-La suma de la diagonal principal es: 15
-```
-
----
-
-#### **Ejercicio 9: Búsqueda en una matriz**
-**Instrucción:**  
-Solicita al usuario una matriz de 3x3. Luego, pide un número y busca si está en la matriz. Muestra la posición del número si se encuentra.
-
-**Entrada esperada:**
-```
-Introduce los elementos de la matriz:
-Elemento [0][0]: 1
-Elemento [0][1]: 2
-Elemento [0][2]: 3
-Elemento [1][0]: 4
-Elemento [1][1]: 5
-Elemento [1][2]: 6
-Elemento [2][0]: 7
-Elemento [2][1]: 8
-Elemento [2][2]: 9
-
-Número a buscar: 5
-```
-
-**Salida esperada:**
-```
-El número 5 se encuentra en la posición [1][1].
-```
-
----
-
 #### **Criterios de Evaluación**
 1. Uso adecuado de bucles anidados.
 2. Implementación correcta de las operaciones.
