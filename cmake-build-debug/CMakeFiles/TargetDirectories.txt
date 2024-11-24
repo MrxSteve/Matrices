@@ -1,0 +1,3 @@
+C:/Users/MINEDUCYT/CLionProjects/matrices/cmake-build-debug/CMakeFiles/matrices.dir
+C:/Users/MINEDUCYT/CLionProjects/matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MINEDUCYT/CLionProjects/matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
